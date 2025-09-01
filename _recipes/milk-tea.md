@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Milk Tea
-description: TODO
 vim: tw=90 fo-=tc
 ---
 
@@ -16,56 +15,31 @@ I live in the SF Bay Area, and my favorite half and half is Straus Organic Half 
 If you can't find Straus, what you want to look for is "Pasteurized" not "Ultra
 Pasteurized." What's the difference?
 
-> Many half & half products are ultra-pasteurized to increase shelf life, which
-> involves “cooking” the milk at high temperature (at or above 280°F for at
-> least two seconds). These more heavily processed items forfeit flavor and
-> nutritional integrity in their quest for a longer shelf life.
+> Many half & half products are ultra-pasteurized to increase shelf life, which involves “cooking” the milk at high temperature (at or above 280°F for at least two seconds). These more heavily processed items forfeit flavor and nutritional integrity in their quest for a longer shelf life.
 >
-> Never ultra-pasteurized. Straus Family Creamery Organic Half & Half is
-> pasteurized at 170°F for 18 seconds and lightly homogenized to emulsify the
-> milk and cream (to minimize separation). This process destroys harmful
-> bacteria while still preserving the authentic flavor of the milk and cream.
+> Never ultra-pasteurized. Straus Family Creamery Organic Half & Half is pasteurized at 170°F for 18 seconds and lightly homogenized to emulsify the milk and cream (to minimize separation). This process destroys harmful bacteria while still preserving the authentic flavor of the milk and cream.
 >
 > — <https://www.strausfamilycreamery.com/products/organic-half-and-half/>
 
-Pasteurized half and half won't last as long as ultra-pasteurized, so you want
-to double check the sell-by dates. Also in my experience not all pasteurized
-half and half are created equal, and I have found some that I still didn't like
-as much as Straus (or even a really good, ultra-pasteurized organic / grass fed
-half and half).
+Pasteurized half and half won't last as long as ultra-pasteurized, so you want to double check the sell-by dates. Also in my experience not all pasteurized half and half are created equal, and I have found some that I still didn't like as much as Straus (or even a really good, ultra-pasteurized organic / grass fed half and half).
 
-**tl;dr**: The half & half is the most important ingredient. Shop around to find
-your favorite.
+**tl;dr**: The half & half is the most important ingredient. Shop around to find your favorite.
 
 # A note on ratios
 
-The recipes below are all scaled for a single cup. I usually scale the recipes
-up 4x if I'm experimenting and 8x if I know that my chosen amount of leaves,
-temperature, and duration isn't going to end up being a waste of leaves 😅
+The recipes below are all scaled for a single cup. I usually scale the recipes up 4x if I'm experimenting and 8x if I know that my chosen amount of leaves, temperature, and duration isn't going to end up being a waste of leaves 😅
 
-I find it's easier to make larger batches because they come out more consistent.
-Also saves time—it's great having a gallon of tea in the fridge!
+I find it's easier to make larger batches because they come out more consistent. Also saves time—it's great having a gallon of tea in the fridge!
 
 # A note on tapioca pearls
 
-There are two kinds of pearls: the "instant cook" kind and the raw, not
-partially precooked kind.
+There are two kinds of pearls: the "instant cook" kind and the raw, not partially precooked kind.
 
-All the pros will tell you that if you really want good pearls you need the raw
-pearls. I don't think so. I ordered the Boba Guys' [Boba
-Kit](https://www.thebobakit.com/shop) which came with some raw pearls from U.S.
-Boba Company, and not only is it like a 2 hour affair to cook them, I didn't
-even like the way they came out.
+All the pros will tell you that if you really want good pearls you need the raw pearls. I don't think so. I ordered the Boba Guys' [Boba Kit](https://www.thebobakit.com/shop) which came with some raw pearls from U.S. Boba Company, and not only is it like a 2 hour affair to cook them, I didn't even like the way they came out.
 
-My favorite pearls are [E-Fa Brand Black Tapioca
-Pearls](https://www.amazon.com/Fa-Brand-Bubble-Black-Tapioca/dp/B0001N7RLQ).
-Amazon lists this for USD 13.50, but I regularly find them for like USD 6 when I
-shop at my local 99 Ranch Market in the SF Bay Area.
+My favorite pearls are [E-Fa Brand Black Tapioca Pearls](https://www.amazon.com/Fa-Brand-Bubble-Black-Tapioca/dp/B0001N7RLQ). Amazon lists this for USD 13.50, but I regularly find them for like USD 6 when I shop at my local 99 Ranch Market in the SF Bay Area.
 
-I have also tried [WuFuYuan Tapioca
-Pearls](https://www.amazon.com/WuFuYuan-Tapioca-Pearl-Black-Net/dp/B00PLTLG4O)
-which cook a little faster but tend to feel flimsier when you chew on them,
-which I don't love.
+I have also tried [WuFuYuan Tapioca Pearls](https://www.amazon.com/WuFuYuan-Tapioca-Pearl-Black-Net/dp/B00PLTLG4O) which cook a little faster but tend to feel flimsier when you chew on them, which I don't love.
 
 Here's how I cook the E-Fa Brand pearls:
 
@@ -77,17 +51,14 @@ Here's how I cook the E-Fa Brand pearls:
 ### Instructions
 
 - Wait for some water to boil in a pot (around a quart, doesn't need to be exact)
-  - You want to keep a bit of a rolling boil this whole time, so that the pearls
-    naturally bounce around and don't stick to each other
-- Add the pearls to the boiling water, stir once to make sure they're not stuck
-  on the bottom
+  - You want to keep a bit of a rolling boil this whole time, so that the pearls naturally bounce around and don't stick to each other
+- Add the pearls to the boiling water, stir once to make sure they're not stuck on the bottom
 - Wait for the pearls to float (about 30s)
 - Once floating, cover pot and set timer for 8min
 - When timer rings, uncover pot, stir, and cook uncovered for another 8min
 - When second timer rings, drain water and rinse pearls in cold water for 20s
   - You can also let them sit in cold water in a bowl for 20s if you want
-- Combine drained pearls and syrup in a bowl, let sit at room temperature for at
-  least 30 minutes, up to 2 hours
+- Combine drained pearls and syrup in a bowl, let sit at room temperature for at least 30 minutes, up to 2 hours
 - Serve in your favorite drink
 
 
@@ -97,10 +68,7 @@ Here's how I cook the E-Fa Brand pearls:
 
 - Originally from [*The Boba Book*](https://www.amazon.com/dp/1984824279), p. 27
 - Yields between 2 – 2¼ cups, depending on time spent reducing
-- I've recently been adding agave syrup into the mix as well (equal parts brown,
-  white, agave, and water by volume). It tempers the flavor away from super
-  molasses-y. Super molasses-y is fine in a rich black tea but not as great in a
-  light jasmine or oolong.
+- I've also experimented with adding agave syrup into the mix (equal parts brown, white, agave, and water by volume). It tempers the flavor away from super molasses-y. Super molasses-y is fine in a rich black tea but can be overpowering in a light jasmine or oolong.
 
 ### Ingredients
 
@@ -118,12 +86,8 @@ Here's how I cook the E-Fa Brand pearls:
 ### Notes
 
 - Makes one 11 fl oz cup (excludes volume of ice and toppings)
-- The Irish breakfast tea I linked is really malty, I think it makes for a
-  hearty milk tea. It's not quite as subtle or smooth as Boba Guys for example.
-- I've also tried making this recipe the same way with an Irish breakfast tea
-  and also with a Scottish breakfast tea, both from Upton tea. In a taste test
-  among my friends we all preferred the Irish breakfast, as it was maltier
-  without being too bitter.
+- The Irish breakfast tea I linked is really malty, I think it makes for a hearty milk tea. It's not quite as subtle or smooth as Boba Guys for example.
+- I've also tried making this recipe the same way with an Irish breakfast tea and also with a Scottish breakfast tea, both from Upton tea. In a taste test among my friends we all preferred the Irish breakfast, as it was maltier without being too bitter.
 
 ### Ingredients
 
@@ -149,10 +113,8 @@ Here's how I cook the E-Fa Brand pearls:
 ### Notes
 
 - Makes one 10 fl oz cup (excludes volume of ice and toppings)
-- I was never 100% attached to the tea I linked below, and it looks like it's
-  out of stock now.
-- There is less half & half in this compared to the black tea. That's to let the
-  floral flavors of the tea shine through better.
+- I was never 100% attached to the tea I linked below, and it looks like it's out of stock now.
+- There is less half & half in this compared to the black tea. That's to let the floral flavors of the tea shine through better.
 
 ### Ingredients
 
@@ -166,8 +128,7 @@ Here's how I cook the E-Fa Brand pearls:
 
 - Heat the water to 170°F
 - Add the tea leaves, brew for 2 minutes, 15 seconds
-  - Unlike the other teas (black, oolong, etc.) I've found that the timing here
-    is really essential
+  - Unlike the other teas (black, oolong, etc.) I've found that the timing here is really essential
 - Strain the brewed tea and leaves over the ice
 - Let the ice melt completely
   - This will yield about 8 fl oz of tea
@@ -180,8 +141,7 @@ Here's how I cook the E-Fa Brand pearls:
 ### Notes
 
 - Makes one 10.5 fl oz cup (excludes volume of ice and toppings)
-- I've found oolong to be really versatile. Once I accidentally let it steep for
-  6 minutes and it didn't even taste that bad.
+- I've found oolong to be really versatile. Once I accidentally let it steep for 6 minutes and it didn't even taste that bad.
 
 ### Ingredients
 
