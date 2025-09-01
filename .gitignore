@@ -1,0 +1,6 @@
+_site
+_serve
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+.deploy

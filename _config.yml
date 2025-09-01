@@ -1,0 +1,88 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Recipes
+author: Recipes
+description: >-
+  Where I collect recipes I've cooked, so that I can refer back to them and share them with friends.
+baseurl: "/recipes"
+url: "https://jez.io"
+future: false
+timezone: America/Los_Angeles
+
+permalink: '/:slug/'
+
+theme: 'pandoc-markdown-jekyll-theme'
+markdown: Pandoc
+pandoc:
+  extensions:
+    - from: 'markdown+smart+tex_math_single_backslash+emoji'
+    - lua-filter: './pandoc-sidenote.lua'
+    - template: '_template'
+    - katex
+    - toc
+    - toc-depth: 2
+    - M: 'site__baseurl=/recipes/'
+
+# HACK(jez): Re-using these from jez.io/
+header_includes:
+  - '<link rel="apple-touch-icon-precomposed" href="/img/touch-icon-dark.png">'
+  - '<link rel="icon" sizes="32x32" href="/img/favicon-dark@2x.png">'
+  - '<link rel="icon" sizes="16x16" href="/img/favicon-dark.png">'
+  - '<link rel="alternate" type="application/atom+xml" href="/recipes/atom.xml">'
+include_after:
+  - '<script src="/js/favicon.js"></script>'
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+gems:
+  - jekyll-feed
+  - jekyll-pandoc
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
+  - tags
+
+feed:
+  path: atom.xml
+  excerpt_only: true
+  # categories: true
+
+# Octopress configuration
+
+post_ext: md
+page_ext: md
+
+# Default templates for posts and pages
+post_layout: post
+page_layout: page
+
+# Don't want to call them posts, because I don't want a date in the filename.
+collections:
+  recipes:
+    sort_by: title
+    output: true
+    # :name is just base filename. :slug is full filename, including folders
+    permalink: '/:name/'
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    recipes:
+      description: TODO
+      # Jekyll compose adds a date to all new files, even non-posts
+      date: DELETE_ME
+      # This is a trick to get a vim modeline for these posts
+      # Putting double quotes around the key here makes it so that this
+      # modeline doesn't apply to this file (but it still parses correctly as YAML)
+      "vim": "tw=90 fo-=tc"
+

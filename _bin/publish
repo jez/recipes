@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+git add .
+git commit -m "Update site: $(date)"
+git push --force-with-lease
+echo https://github.com/jez/recipes/actions
+
