@@ -9,6 +9,8 @@ and share them.<br>Most of these are not my own recipes.'
 regenerate: true
 ---
 
+See [my main site](https://jez.io) for more about me.
+
 {% capture numrecipes %}{{ site.recipes | size }}{% endcapture %}
 {% if numrecipes != '0' %}
   {% assign pinned_recipes = site.recipes | where: "pinned", true %}
