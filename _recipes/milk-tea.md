@@ -8,7 +8,7 @@ vim: tw=90 fo-=tc
 
 # A note on half & half
 
-A good half and half makes or breaks a milk tea. Across all your ingredients, half and half is the one you want to skimp on the least.
+A good half & half makes or breaks a milk tea. Across all your ingredients, half and half is the one you want to skimp on the least.
 
 I live in the SF Bay Area, and my favorite half and half is Straus Organic Half & Half. It is hard to find, but I have been able to find it at Draegers and Whole Foods in the past.
 
