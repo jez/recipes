@@ -113,7 +113,7 @@ Here's how I cook the E-Fa Brand pearls:
 ### Notes
 
 - Makes one 10 fl oz cup (excludes volume of ice and toppings)
-- I was never 100% attached to the tea I linked below, and it looks like it's out of stock now.
+- I was never 100% attached to the tea I linked below. Maybe try experimenting with other ones.
 - There is less half & half in this compared to the black tea. That's to let the floral flavors of the tea shine through better.
 
 ### Ingredients
@@ -141,7 +141,7 @@ Here's how I cook the E-Fa Brand pearls:
 ### Notes
 
 - Makes one 10.5 fl oz cup (excludes volume of ice and toppings)
-- I've found oolong to be really versatile. Once I accidentally let it steep for 6 minutes and it didn't even taste that bad.
+- I've found some oolongs to be really versatile. Once I accidentally let it steep for 6 minutes and it didn't even taste that bad.
 
 ### Ingredients
 
